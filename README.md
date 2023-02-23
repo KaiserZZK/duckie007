@@ -45,3 +45,19 @@ a launcher will be created for it. For example, the script file
 
 When launching a new container, you can simply provide `dt-launcher-my-launcher` as
 command.
+
+
+
+# Functional Modules
+
+## Informed Search Algorithms (`packages/search/`)
+[Documentation](https://github.com/KaiserZZK/duckie007/tree/master/packages/search#readme)
+
+## Random Search Algorithms (`packages/rrt/`)
+[Documentation](https://github.com/KaiserZZK/duckie007/tree/master/packages/rrt#readme)
+
+## Decision-Making Algorithms (`packages/reinforcement/`)
+[Documentation](https://github.com/KaiserZZK/duckie007/tree/master/packages/reinforcement#readme)
+
+## Position Estimation Algorithms (`packages/particle_filter/`)
+[Documentation](https://github.com/KaiserZZK/duckie007/tree/master/packages/particle_filter#readme)

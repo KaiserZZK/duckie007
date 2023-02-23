@@ -1,27 +1,8 @@
 # COMS BC 3997 - F22
-# PS4: Perception, Mapping, and Localization
-* Due: 11:59pm, Monday November 14th
+# Perception, Mapping, and Localization
 
-In this assignment, you will implement a particle filter, explore computer vision and work through written questions on perception, mapping, localization, and some leftover concepts from planning and control that didn't make it onto the last assignment.
+In this project, you will implement a particle filter.
 
-# Written Assignment (28 points + 2 Bonus Points)
-
-Please go to the PDF in the written folder for the written instructions.
-
-Problem 1: (Optimal) Control and Planning Concepts (5 points)
-
-Problem 2: Optimal Control (3 points)
-
-Problem 3: Filtering (7 Points + 2 Bonus)
-
-Problem 4: Computer Vision (10 points)
-
-Problem 5: Computer Vision Experiment (3 points)
-
-# Coding Assignment (6 points)
-**You must submit to gradescope to get credit for the assignment --- make sure you submit the required files before the deadline!**
-
-**NOTE: You need to install pygame for the visuals to run: `pip3 install pygame`**
 
 ## Particle Filter (6 points)
 
