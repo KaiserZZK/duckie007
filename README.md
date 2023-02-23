@@ -51,7 +51,7 @@ command.
 # Functional Modules
 
 ## Informed Search Algorithms (`packages/search/`)
-[Documentation](https://github.com/KaiserZZK/duckie007/tree/master/packages/search#readme)
+[Documentation](./packages/search/README.md)
 
 ## Random Search Algorithms (`packages/rrt/`)
 [Documentation](https://github.com/KaiserZZK/duckie007/tree/master/packages/rrt#readme)
