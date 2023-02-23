@@ -54,10 +54,10 @@ command.
 [Documentation](./packages/search/README.md)
 
 ## Random Search Algorithms (`packages/rrt/`)
-[Documentation](https://github.com/KaiserZZK/duckie007/tree/master/packages/rrt#readme)
+[Documentation](./packages/rrt/README.md)
 
 ## Decision-Making Algorithms (`packages/reinforcement/`)
-[Documentation](https://github.com/KaiserZZK/duckie007/tree/master/packages/reinforcement#readme)
+[Documentation](./packages/reinforcement/README.md)
 
 ## Position Estimation Algorithms (`packages/particle_filter/`)
-[Documentation](https://github.com/KaiserZZK/duckie007/tree/master/packages/particle_filter#readme)
+[Documentation](./packages/particle_filter/README.md)
